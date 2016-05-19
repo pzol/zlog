@@ -1,0 +1,9 @@
+[package]
+name = "zlog"
+version = "0.1.0"
+authors = ["Piotr Zolnierek <pzolnierek@gmail.com>"]
+description = "A tiny-teeny logging facade, writing to stdout on a separate thread"
+
+[dependencies]
+log = "0.3"
+time = "0.1"
